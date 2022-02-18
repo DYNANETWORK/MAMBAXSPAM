@@ -1,4 +1,4 @@
-#RiZoeLXSpam By @TheRiZoeL
+#MAMBA
 
 import asyncio
 import sys
