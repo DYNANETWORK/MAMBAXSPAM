@@ -22,9 +22,6 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUKHPAL443/MAMBAXSPAM)
 
 
-# ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs
-[![Commands](https://img.shields.io/badge/MAMBAXSPAM-CMDS-blue)](https://telegra.ph/%F0%9D%97%A5%F0%9D%97%9C%F0%9D%97%AD%F0%9D%97%A2%F0%9D%97%98%F0%9D%97%9F-%F0%9D%97%AB-%F0%9D%97%A6%F0%9D%97%A3%F0%9D%97%94%F0%9D%97%A0-10-15)
-
 # Support & Updates
 * [Channel](https://t.me/MAMBA_NETWORK)
 * [Support Group](https://t.me/MAMBA_X_SUPPORT)
