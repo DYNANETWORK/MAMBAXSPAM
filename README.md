@@ -1,6 +1,6 @@
+<p align="center"><a href="https://t.me/MAMBA_NETWORK">
+    <img src="https://te.legra.ph/file/a8a793a8716bdcc923fd3.jpg"></a></p>
 <p align="center">
-  <img src="https://t.me/telegr.ph/file/a8a793a8716bdcc923fd3.jpg" alt="MAMBA Logo">
-</p>
 <h1 align="center">
   <b>MAMBA</b>
 </h1>
@@ -13,13 +13,10 @@
 - [x] ☯︎ ғᴀsᴛ ᴀɴᴅ sᴛᴀʙʟᴇ ☯︎
 - [x] Deploy upto 20 UserBots in One time 🔥
 
-### Generate string session from below:
+### Generate string session from below
 
-- [x] No Requirement of API ID and API HASH
+[![GenerateString](https://img.shields.io/badge/MAMBAXSPAM-String-yellowgreen)](https://replit.com/@SUKHPAL443/MAMBAXSPAM#main.py) ``Telethon``
 
-[![GenerateString](https://img.shields.io/badge/RiZoeLXSpam-String-yellowgreen)](https://replit.com/@RiZoeL/RiZoeL-Spam-bot#main.py) ``Telethon``
-
-• If you face any error while generating String session then use [@TELESTRING_BOT](https://t.me/TELESTRING_BOT) this bot
 # Deploy on heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUKHPAL443/MAMBAXSPAM)
