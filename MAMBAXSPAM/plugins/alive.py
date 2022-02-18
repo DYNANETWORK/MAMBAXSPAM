@@ -1,6 +1,6 @@
-from .. import Riz, SUDO_USERS, mambaversion
+from .. import Riz, SUDO_USERS
 from .. import ALIVE_PIC
-from telethon import events, version
+from telethon import events
 from time import time
 from datetime import datetime
 
