@@ -1,4 +1,4 @@
-from .. import Riz, SUDO_USERS, rizoelversion
+from .. import Riz, SUDO_USERS, mambaversion
 from .. import ALIVE_PIC
 from telethon import events, version
 from time import time
