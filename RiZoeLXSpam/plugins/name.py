@@ -33,9 +33,9 @@ async def name(e):
     usage = "𝗠𝗼𝗱𝘂𝗹𝗲 𝗡𝗮𝗺𝗲 = SET NAME\n\nCommand:\n\n.setname <Message to change name of spam ids>"
     if e.sender_id in SUDO_USERS:
         names = e.text.split(" ", 1)
-        RiZoeL = names[1]
+        Mamba = names[1]
         if len(e.text) > 5:
-            firstname = RiZoeL
+            firstname = Mamba
             text = "Changing Name..."
             try:
                 await e.client(functions.account.UpdateProfileRequest(first_name=firstname))
