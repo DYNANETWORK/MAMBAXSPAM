@@ -12,11 +12,11 @@ rizoel = "✧ 𝑀𝐴𝑀𝐵𝐴 𝑆𝑃𝐴𝑀 𝐼𝑍𝑍 𝐴𝐿𝐼�
 
 rizoel += f"┏━━━━━━━━━━━━━━━━━━━\n"
 
-rizoel += f"┣➣ **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `3.9.6`\n"
+rizoel += f"┣➣ **ᴘʏᴛʜᴏɴ ** : `3.9.6`\n"
 
-rizoel += f"┣➣ **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `{version.__version__}`\n"
+rizoel += f"┣➣ **DEVELOPER** : `{🇲🇦🇲🇧🇦}`\n"
 
-rizoel += f"┣➣ **sᴘᴀᴍ ᴠᴇʀsɪᴏɴ**  : `{mambaversion}`\n"
+rizoel += f"┣➣ **🇴🇼🇳🇪🇷**  : `[BLACK MAMBA]{https://t.me/BLACKMAMBA_OFFICIAL}`\n"
     
 rizoel += f"┣➣ **sᴜᴘᴘᴏʀᴛ** : [JOIN](https://t.me/MAMBA_X_SUPPORT)\n"
 
