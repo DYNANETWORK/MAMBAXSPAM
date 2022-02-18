@@ -19,8 +19,20 @@ for name in files:
     with open(name) as a:
         patt = Path(a.name)
         plugin_name = patt.stem
-        load_plugins(plugin_name.replace(".py", ""))
+        load_module(plugin_name.replace(".py", ""))
 
+print("Bot set up completely!")
+
+print("TGBot set up - Level - Basic")
+print(
+    """
+                ----------------------------------------------------------------------
+                    MAMBA X ʜᴀs ʙᴇᴇɴ ᴅᴇᴘʟᴏʏᴇᴅ, ᴅᴏ ᴠɪsɪᴛ @MAMBA_X_SUPPORT !!
+                    LUCIFER ᴠᴇʀ: V2.2
+                    ©TEAM MAMBA
+                ----------------------------------------------------------------------
+"""
+)
 print("MAMBA SPAMBOT DEPLOYED SUCCESSFULLY -!")
 print("Enjoy! Do visit @MAMBA_X_SUPPORT")
 
