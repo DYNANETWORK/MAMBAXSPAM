@@ -44,7 +44,7 @@ async def get_chatinfo(event):
             return None
         except ChannelPrivateError:
             await event.reply(
-                "`This is a private channel/group or I am banned from there`"
+                "`YE GROUP/CHANNEL PRIVATE HAI YA FIR MAI BAN HU ISME`"
             )
             return None
         except ChannelPublicGroupNaError:
@@ -104,7 +104,7 @@ async def get_users(event):
     rk1 = await get_chatinfo(event)
     chat = await event.get_chat()
     if event.is_private:
-        return await rkp.edit("`Sorry, Can add users here`")
+        return await rkp.edit("`Sorry, Can't add users here`")
     s = 0
     f = 0
     error = "None"
